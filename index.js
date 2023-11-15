@@ -23,8 +23,8 @@ function luzVerde() {
 
 setInterval(function() {
     luzRoja();
-    setTimeout(luzAmarilla, 1000);
-    setTimeout(luzVerde, 2000);
+    setTimeout(luzVerde, 1000);
+    setTimeout(luzAmarilla, 2000);
 }, 3000);
 
   
